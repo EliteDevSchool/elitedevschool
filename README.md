@@ -29,11 +29,14 @@ EDS - Elite Dev School is a premier coding academy dedicated to empowering stude
 
 ---
 
-
 ### 🌍 Connect with Us  
-Find us on social media and join our community:
+Join our community and follow us on social media:
 
-[All Links Here](https://linktr.ee/elitedevschool)
+- [YouTube](https://www.youtube.com/@EliteDevSchool)
+- [LinkedIn](https://www.linkedin.com/in/elitedevschool/)
+- [Telegram](https://t.me/elitedevschool)
+- [X (formerly Twitter)](https://x.com/elitedevschool)
+- [All Links on Linktree](https://linktr.ee/elitedevschool)
 
 ---
 
