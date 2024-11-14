@@ -29,12 +29,6 @@ EDS - Elite Dev School is a premier coding academy dedicated to empowering stude
 
 ---
 
-### 💼 Our Projects
-Explore our open-source projects, showcasing the work and progress of our students and team:
-- [Project Name 1](#) - *Brief description of the project*
-- [Project Name 2](#) - *Brief description of the project*
-
----
 
 ### 🌍 Connect with Us  
 Find us on social media and join our community:
@@ -43,5 +37,9 @@ Find us on social media and join our community:
 
 ---
 
+### 🚀 Our Vision  
+We’re committed to becoming a trusted hub for web development education, inspiring the next generation of developers and expanding our reach as a software solutions provider.
+
+---
 
 > Follow us for more updates and join our journey in shaping the future of tech talent!
