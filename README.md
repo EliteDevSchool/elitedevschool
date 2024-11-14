@@ -1,52 +1,47 @@
-# مرحباً بكم في EDS - Elite Dev School 👋
+# Welcome to EDS - Elite Dev School 👋
 
-### 🌟 أكاديمية رائدة في تعليم البرمجة الحديثة
+### 🌟 Your Gateway to Modern Web Development
 
-**نبذة عنا**  
-EDS - Elite Dev School هي أكاديمية متخصصة في تعليم البرمجة وتطوير الويب بطرق عصرية وفعّالة. نسعى لتعليم أحدث التقنيات لمساعدة الطلاب في الحصول على خبرات عملية تُؤهلهم لدخول سوق العمل بثقة. كما نطمح لأن نصبح شركة برمجيات في المستقبل القريب.
+**About Us**  
+EDS - Elite Dev School is a premier coding academy dedicated to empowering students with modern web development skills. Our goal is to provide practical, high-quality education in the latest technologies, equipping students with the tools to thrive in the tech industry. We also envision expanding into a software company, offering innovative solutions for diverse digital needs.
 
 ---
 
-### 🛠 المهارات والتقنيات  
-- **اللغات**:  
+### 🛠 Skills and Technologies
+
+- **Languages**:  
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) 
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
-  ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
 
-- **إطارات العمل**:  
+- **Frameworks and Libraries**:  
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat) 
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) 
+  ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat) 
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) 
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat) 
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
-- **أدوات التطوير**:  
+- **Tools and Platforms**:  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) 
-  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) 
+  ![Salla](https://img.shields.io/badge/-Salla-blueviolet?style=flat)
 
 ---
 
-### 💼 مشاريع الأكاديمية
-- سيتم هنا عرض روابط لأهم المشاريع التي تم العمل عليها من قبل الأكاديمية، مثل:
-  - [اسم المشروع 1](#)
-  - [اسم المشروع 2](#)
+### 💼 Our Projects
+Explore our open-source projects, showcasing the work and progress of our students and team:
+- [Project Name 1](#) - *Brief description of the project*
+- [Project Name 2](#) - *Brief description of the project*
 
 ---
 
-### 🌍 تواصل معنا  
-- [فيسبوك](https://facebook.com/elitedevschool)
-- [فيسبوك الإضافي](https://facebook.com/eds.elitedevschool.2024)
-- [يوتيوب](https://www.youtube.com/@EliteDevSchool)
-- [تليجرام](https://t.me/elitedevschool)
-- [لينكد إن](https://www.linkedin.com/in/elitedevschool/)
-- [GitHub](https://github.com/EliteDevSchool)
+### 🌍 Connect with Us  
+Find us on social media and join our community:
+
+[All Links Here](https://linktr.ee/elitedevschool)
 
 ---
 
-### 🚀 رؤيتنا المستقبلية
-نسعى أن ننمو ونتوسع لنكون مرجعاً في تعليم البرمجة على الصعيد العربي والعالمي، وتقديم خدمات برمجية متنوعة تلبي احتياجات سوق العمل المتغير.
 
----
-
-> تابعونا وتفاعلوا معنا، فنحن هنا لدعم وتطوير المهارات البرمجية للجيل القادم من المطورين!
+> Follow us for more updates and join our journey in shaping the future of tech talent!
